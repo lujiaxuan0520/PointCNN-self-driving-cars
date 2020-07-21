@@ -4,8 +4,8 @@
 项目作者：上海大学-卢嘉轩，青岛大学-陈聪
 
 代码结构说明：
-  data_utils.py -> 数据处理相关函数
-  pointcnn_kitti.py -> PointCNN网络结构
-  pointfly.py -> 项目所使用的函数
-  test_seg_kitti.py -> 测试函数
-  train_val_seg_kitti.py -> 训练与验证函数
++ data_utils.py -> 数据处理相关函数
++ pointcnn_kitti.py -> PointCNN网络结构
++ pointfly.py -> 项目所使用的函数
++ test_seg_kitti.py -> 测试函数
++ train_val_seg_kitti.py -> 训练与验证函数
